@@ -44,5 +44,4 @@ eval "$(fnm env --use-on-cd --shell zsh)"
 eval "$(starship init zsh)"
 
 # ===== 别名 =====
-alias rp='rap -u wangmingyao_dxm'
 alias relay='~/bin/relay/relay_tui.py'
